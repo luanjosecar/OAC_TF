@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="PIPELINE">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Banco_Reg_32|mux324:MUX_OU1|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_nee.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Banco_Reg_32|mux324:MUX_OU2|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_nee.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
